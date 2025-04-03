@@ -596,11 +596,14 @@ export default function Portfolio() {
               </Card>
             </div>
             <div className="mt-6 text-center">
-              <button 
+              <a 
+                href="https://drive.google.com/drive/folders/1nDDM-swwuDQXdnq83o_7fx2jqP5aHwWl"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-200 shadow-md hover:shadow-lg"
               >
                 View All Skills Certificates
-              </button>
+              </a>
             </div>
           </div>
         </div>
